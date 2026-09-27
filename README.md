@@ -1,0 +1,1 @@
+# finpower-junior-dev-assessment
